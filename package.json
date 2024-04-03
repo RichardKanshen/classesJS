@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "pkg": {
+    "targets": [
+      "node14-win-x64","node14-macos-x64","node14-linux-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "bin": {
+    "classesJS": "classes.js"
+  },
+  "name": "classesjs",
+  "version": "0.0.0",
+  "description": "A simple node.js app to show what class you are currently in on Discord.",
+  "main": "classes.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "pkg package.json"
+
+  },
+  "author": "kanshen.click <richard@kanshen.click> (https://kanshen.click)",
+  "license": "MIT"
+}
