@@ -1,3 +1,72 @@
+.define classTime 0 07:05 07:50
+.define classTime 1 07:55 08:40
+.define classTime 2 08:45 09:30
+.define classTime 3 09:40 10:25
+.define classTime 4 10:40 11:25
+.define classTime 5 11:30 12:15
+.define classTime 6 12:20 13:05
+.define classTime 7 13:35 14:20
+.define classTime 8 14:25 15:10
+.ignore 2024-04-05 2
+.ignore 2024-04-08 7
+.ignore 2024-04-10 7
+.ignore 2024-04-12 8
+.ignore 2024-04-15 7
+.ignore 2024-04-23 1 2 5 6 7
+.ignore 2024-04-24 1 2 3 6 7
+
+# MONDAY
+"Slovak" monday 1 07:55 08:40
+"Maths" monday 1 08:45 09:30
+"English" monday 1 09:40 10:25
+"History" monday 1 10:40 11:25
+"German" monday 1 11:30 12:15
+"Social Studies" monday 1 12:20 13:05
+"Biology" monday 2/0 13:05 13:50
+"Geography" monday 2/1 13:05 13:50
+
+# TUESDAY
+"Basics of Programming" tuesday 1 07:55 09:25
+"English" tuesday 1 09:40 10:25
+"English" tuesday 1 10:40 11:25
+"Applied Informatics" tuesday 1 11:30 13:00
+"Slovak" tuesday 1 13:05 13:50
+
+# WEDNESDAY
 "Slovak" wednesday 1 07:55 08:40
-"Basics of IT" wednesday 1 08:40 10:15
+"Basics of Informatics" wednesday 1 08:45 10:15
 "Religious Education" wednesday 1 10:40 11:25
+"Maths" wednesday 1 11:30 12:15
+"PE" wednesday 1 12:20 13:05
+"History" wednesday 1 13:10 13:55
+
+# THURSDAY
+"German" thursday 1 07:55 08:40
+"PE" thursday 1 08:45 09:30
+"Maths" thursday 1 09:40 10:25
+"Maths" thursday 1 10:40 11:25
+"Physics" thursday 1 11:30 13:00
+
+# FRIDAY
+"German" friday 1 08:45 09:30
+"Maths" friday 1 09:40 10:25
+"Religious Education" friday 1 10:40 11:25
+"Technical Graphics" friday 1 11:30 13:00
+"Yearly Project" friday 1 13:15 14:45
+
+# SATURDAY
+
+# SUNDAY
+
+# EXTRA
+"History" 2024-04-10 1 07:55 08:40
+"Yearly Project" 2024-04-10 1 12:20 13:05
+"Yearly Project" 2024-04-12 1 13:05 13:50
+"Biology" 2024-04-15 1 12:20 13:05
+"History & Social Studies" 2024-04-17 1 13:10 13:55
+"Biology" 2024-04-22 1 12:20 13:05
+"Maths" 2024-04-23 1 11:30 12:15
+"Slovak" 2024-04-23 1 12:20 13:05
+"Slovak" 2024-04-24 1 08:45 09:30
+"PE" 2024-04-24 1 09:40 10:25
+"Basics of Informatics" 2024-04-24 1 12:20 13:05
